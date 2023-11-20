@@ -32,16 +32,35 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-![exp 3](https://github.com/Sajith-28/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/149937471/df027e7d-64c8-4089-9936-538ece4a5677)
-### SMOOTH ROD:In a Cartesian 3D printer, the smooth rod is a key component of the printer’s structure. It is part of the printer’s design where one axis moves another, for example, the X-axis rails ‘sit’ on the Y-axis rails
+![exp 5](https://github.com/Sajith-28/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/149937471/08318288-af1d-460c-a7ed-adfee3233ca6)
 
-### BEARING:In a Cartesian 3D printer, bearings play a crucial role in the movement of the printer head and the print bed. They are typically used in the printer’s gantry system, where the print bed is fixed and the printhead or extruder moves along two perpendicular axes
 
-### IDLER:In a Cartesian 3D printer, an idler is a critical component of the extruder, which is the part of the printer that feeds the filament into the hot end for melting and deposition
 
-### EXTRUDER:In a Cartesian 3D printer, the extruder is a mechanical device that feeds, melts, and deposits the printing material onto the print bed or previous layers, meticulously building up a three-dimensional object
+### Y-Axis Base: In a Polar 3D printer, the concept of a Y-axis base is not directly applicable as it is in a Cartesian 3D printer. Instead of using a Cartesian coordinate system (X, Y, and Z), Polar 3D printers use a polar coordinate system
 
-### MOTOR:In a Cartesian 3D printer, motors are essential components that control the movement of the printer head and the print bed along the X, Y, and Z axes.These motors are typically stepper motors, which move in discrete steps, allowing for precise control over the movement of the printer components. The motors receive instructions from the printer’s control board, translating digital commands into physical movement
+### Z-Axis Frame: In a Polar 3D printer, the Z-axis frame refers to the mechanism that controls the vertical movement of the printer’s nozzle or print bed. This is typically achieved through a lead screw, which is a long twisting screw that translates the rotational motion of a motor into linear motion.
+
+### Smooth Rods:Smooth rods are long, cylindrical rods that are used in a variety of applications, including in 3D printers. In a 3D printer, smooth rods are typically used as part of the printer’s linear motion system, which is responsible for moving the print head and print bed.
+
+### Motors:In a Polar 3D printer, motors are used to control the movement of the printer components. Unlike Cartesian 3D printers, which use a grid-like path for movement, Polar 3D printers use a circular path
+
+### Extruder Supporter: The term “Extruder Supporter” is not a standard term in the context of 3D printing, and it does not appear to be specifically related to Polar 3D printers based on the information available
+
+### Threaded Rod:A threaded rod in a 3D printer is a type of nozzle actuator. There are two different types of nozzle actuators for 3D printers - Threaded Rod and Timing Belt
+
+### Y-Axis Frame:In a Polar 3D printer, the concept of a Y-axis frame is not directly applicable as it is in a Cartesian 3D printer. Instead of using a Cartesian coordinate system (X, Y, and Z), Polar 3D printers use a polar coordinate system
+
+### Motor with Gear:In this hypothetical scenario, a 3D printer is designed to operate using a polar coordinate system. In polar coordinates, movement is defined by radial distance and angular rotation from a central point (the pole). The "Motor with Gear" suggests the presence of a motorized system incorporating gears, where the motor is responsible for driving the motion and the gears play a role in transmitting and adjusting the rotational movement. This setup would be applied within the framework of a polar coordinate system to control the positioning of the 3D printing components or the print head
+
+### Motor-with-Pulley: In this hypothetical scenario, a 3D printer is designed to operate using a polar coordinate system. In polar coordinates, movement is defined by radial distance and angular rotation from a central point (the pole). The "Motor with Pulley" implies the integration of a motorized system that includes a pulley mechanism
+
+### Gears:In a hypothetical scenario where a 3D printer utilizes a polar coordinate system for movement, the inclusion of gears suggests a mechanism for translating motion within this polar framework. Gears are mechanical components with toothed wheels that mesh together, transmitting rotational motion from one component to another.
+
+### Plate : In a hypothetical polar 3D printer, the "polar plate" is the component that serves as the foundation for building layers of the printed object. This plate is designed to move or rotate in the polar coordinate system, allowing the 3D printer to deposit material at different radial distances and angular positions. The movement of the polar plate, combined with the printer's ability to control the deposition of material, contributes to the creation of the final 3D printed object.It's important to note that, as of my last update, polar coordinate systems are not as common in 3D printing as Cartesian systems. If there have been developments or innovations in 3D printing technology since then, I recommend checking the latest sources for the most up-to-date information.
+
+### Extruder: In a theoretical scenario where a 3D printer employs a polar coordinate system, the term "extruder" would likely refer to the component responsible for feeding and melting the printing material, such as plastic filament. The extruder's primary function is to precisely control the deposition of the material layer by layer to create the 3D printed object.
+
+### Filament: In a theoretical polar 3D printer, the term "filament" would refer to the material used for 3D printing, and it would follow a similar concept as in traditional 3D printing systems. The filament is a continuous strand of material, typically a thermoplastic polymer, that is fed into the extruder.
 
 ### Name:SAJITH AHAMED F
 
