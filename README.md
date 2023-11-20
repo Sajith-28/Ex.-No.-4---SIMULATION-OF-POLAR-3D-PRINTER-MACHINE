@@ -32,9 +32,20 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![exp 3](https://github.com/Sajith-28/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/149937471/df027e7d-64c8-4089-9936-538ece4a5677)
+## SMOOTH ROD:In a Cartesian 3D printer, the smooth rod is a key component of the printer’s structure. It is part of the printer’s design where one axis moves another, for example, the X-axis rails ‘sit’ on the Y-axis rails
 
-### Name:
-### Register Number:
+## BEARING:In a Cartesian 3D printer, bearings play a crucial role in the movement of the printer head and the print bed. They are typically used in the printer’s gantry system, where the print bed is fixed and the printhead or extruder moves along two perpendicular axes
+
+## IDLER:In a Cartesian 3D printer, an idler is a critical component of the extruder, which is the part of the printer that feeds the filament into the hot end for melting and deposition
+
+## EXTRUDER:In a Cartesian 3D printer, the extruder is a mechanical device that feeds, melts, and deposits the printing material onto the print bed or previous layers, meticulously building up a three-dimensional object
+
+## MOTOR:In a Cartesian 3D printer, motors are essential components that control the movement of the printer head and the print bed along the X, Y, and Z axes.These motors are typically stepper motors, which move in discrete steps, allowing for precise control over the movement of the printer components. The motors receive instructions from the printer’s control board, translating digital commands into physical movement
+
+### Name:SAJITH AHAMED F
+
+### Register Number:23000083
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
